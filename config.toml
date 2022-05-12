@@ -1,5 +1,5 @@
 [Node]
-DataDir = "/root/galaxy"
+DataDir = "/home/ubuntu/galaxy"
 IPCPath = "galaxy.ipc"
 HTTPHost = "0.0.0.0"
 HTTPPort = 15071

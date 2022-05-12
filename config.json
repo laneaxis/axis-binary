@@ -1,5 +1,5 @@
 {
-  "app_name": "GraphQL API for Galaxy MainNet",
+  "app_name": "GraphQL API",
   "me": {
     "address": "0xE8E2ab527D1fDbCe570B221977BB5c3f12dFa1DA",
     "pkey": "0xaa682338447d15ac4462d938716c120d085a0db81d3945b18017ae0788a121a7"
@@ -20,7 +20,7 @@
   },
   "db": {
     "url": "mongodb://127.0.0.1:27017",
-    "db": "axischain"
+    "db": "axis-graphql"
   },
   "compiler": {
     "temp": "/tmp/solidity",
@@ -31,9 +31,9 @@
   },
   "staking": {
     "sfc": "0xeAb1000000000000000000000000000000000000",
-    "token": "0x9351DAF1aA9ca591B3E146B245d9c71b5849fc5f",
-    "tokenizer": "0x0999683C67b147D67E256Ec8DEEaaE60886394be",
-    "sti": "0xFA80942aed38EA37135316a24c6231cBD4B3D113"
+    "token": "0x62DFf74530A1a8Cee4dD30611D3faD5FBcBD6C67",
+    "tokenizer": "0x5be08aB23d8Ca84D659244fDB6F63c6e07708E30",
+    "sti": "0x1703ce9E629B9B75130aD4613708288c3778eeB5"
   },
   "defi": {
     "fmint": {
